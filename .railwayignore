@@ -1,0 +1,11 @@
+node_modules/
+.git/
+.env*
+npm-debug.log
+yarn-error.log
+test/
+docs/
+scripts/
+local-preview/
+.gitignore
+*.md
